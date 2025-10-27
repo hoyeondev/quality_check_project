@@ -116,6 +116,7 @@ source minivenv/Scripts/activate
 pip install -r requirements.txt
 
 # 프로그램 실행
+cd /src/final/
 python main.py
 ```
 
